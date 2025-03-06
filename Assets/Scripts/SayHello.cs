@@ -7,6 +7,6 @@ public class SayHello : MonoBehaviour
     {
         Debug.Log("Hei på deg!");
         Debug.Log("Du er flink til å lage spill :)");
-        // komentar
+        // kommentar
     }
 }
